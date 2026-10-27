@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ExpenseIQ — Personal Expense Tracker & Analytics
 
 ExpenseIQ is a Python + Streamlit application for recording expenses, storing them in SQLite, monitoring a monthly budget, and exploring spending patterns with interactive charts.
@@ -118,3 +119,7 @@ pytest -v
 ## Portfolio description
 
 **ExpenseIQ — Expense Tracking and Analytics Dashboard:** Built a Python application with Streamlit and SQLite to manage expense records, analyze spending by category and month, track budgets, generate rule-based insights, and export data for downstream analysis. Added automated tests with pytest.
+=======
+# ExpenseIQ
+Python Expense Tracker with Analytics
+>>>>>>> 5e557a0bcda77d281fd9a7ae647c42c4506ac2b4
